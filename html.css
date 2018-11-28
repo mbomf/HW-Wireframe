@@ -1,0 +1,30 @@
+    #header, #footer {
+    background-color:#115279;
+    float:left;
+    padding:15px 0;
+    min-width:100%;
+}
+
+.wrap {
+    position:relative;
+    margin:0 auto;
+    width:960px;
+}
+
+#topnavlist  li {
+    font-family: verdana, sans-serif;
+    color:#D9330F;
+    list-style-type: none;
+    float: left;
+    display:inline;
+    padding: 10px;
+}
+
+.navItems {
+    height: 20%;
+    display: inline;
+    margin-top:30px;
+    padding-top: 50px;
+    padding: 50px;
+
+}
